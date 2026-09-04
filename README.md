@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
