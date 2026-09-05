@@ -10,6 +10,7 @@
 | [1470-shuffle-the-array](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
