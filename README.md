@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
