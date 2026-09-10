@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0645-set-mismatch](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
