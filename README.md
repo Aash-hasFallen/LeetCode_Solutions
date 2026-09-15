@@ -62,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,10 +72,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
 |  |
 | ------- |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
