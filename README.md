@@ -13,6 +13,7 @@
 | [0645-set-mismatch](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -23,9 +24,11 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0645-set-mismatch](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -58,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -70,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aash-hasFallen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
